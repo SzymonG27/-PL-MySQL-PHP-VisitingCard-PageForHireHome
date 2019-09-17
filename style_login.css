@@ -1,0 +1,21 @@
+
+body {
+	background-color: #eee;
+}
+
+.holder {
+	margin-top: 100px;
+	background-color: #ffffff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	-webkit-box-shadow: 14px 15px 36px 9px rgba(171,171,171,1);
+	-moz-box-shadow: 14px 15px 36px 9px rgba(171,171,171,1);
+	box-shadow: 14px 15px 36px 9px rgba(171,171,171,1);
+}
+
+.button-sub {
+	margin-top: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
